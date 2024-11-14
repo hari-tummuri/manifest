@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: buildwithhari/zomato:v1
+        image: shaikmustafa/cycle
         ports:
         - containerPort: 3000   # Use port 3000
 
